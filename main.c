@@ -45,7 +45,7 @@ int main()
     initTabChar(grilleVide);
     initTabInt(grilleBateaux);
 
-//Ceci est un commentaire
+//Ceci est un commentaire 2
 
 
 do{
